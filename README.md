@@ -30,7 +30,7 @@ pip install -r requirements.txt
 bash
 Copy code
 grid_bot/
-│── grid_bot.py          # Main bot functions
+│── GridBot.py          # Main bot functions
 │── requirements.txt     # Python dependencies
 │── README.md            # Documentation
 ⚙️ Setup & Usage
@@ -38,7 +38,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/username/grid-bot.git
+git clone https://github.com/username/GridBot.git
 cd grid-bot
 Install dependencies:
 
