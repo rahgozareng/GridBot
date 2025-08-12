@@ -16,8 +16,8 @@ import urllib3
 
 
 # Replace with your actual API keys
-MEXC_API_KEY = "mx0vgl2SOoSRFhBg0u"
-MEXC_API_SECRET = "6723488979744c8a9dc535620c8a5427"
+MEXC_API_KEY = "xxx"
+MEXC_API_SECRET = "xxx"
 
         
 PAIR = "BTCUSDC"
@@ -326,3 +326,4 @@ while True:
     logging.error(f"Unexpected error: {e}")
     print(f"⚠️ Unexpected error: {e}, restarting bot...")
     time.sleep(5)  # Shorter wait to restart faster
+
